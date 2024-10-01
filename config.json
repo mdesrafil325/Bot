@@ -52,7 +52,7 @@
   "nickNameBot": "𝙍𝙤𝙢𝙚𝙤𖣘𝘽𝙤𝙩࿐",
   "prefix": "?",
   "database": {
-    "type": "mongodb",
+    "type": "sqlite",
     "uriMongodb": "mongodb+srv://romeobot555:mdraselm325@cluster0.ue47qhn.mongodb.net/RomeoBot?retryWrites=true&w=majority&appName=Cluster0",
     "autoSyncWhenStart": false,
     "autoRefreshThreadInfoFirstTime": true,
